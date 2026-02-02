@@ -7,6 +7,6 @@
 ## 模块作者|module author
 telegram@阿灵
 
-## 食用方法|Installation Method
+## 食用方法|installation method
 <h5 style="margin-top: -5px;">直接安装即可</h5>
 <h5 style="margin-top: -5px;">direct nstallation</h5>
