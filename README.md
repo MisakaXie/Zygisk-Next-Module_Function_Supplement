@@ -8,5 +8,5 @@
 telegram@阿灵
 
 ## 食用方法|installation method
-<h5 style="margin-top: -5px;">直接安装即可</h5>
-<h5 style="margin-top: -5px;">direct nstallation</h5>
+<h5 style="margin-top: -5px;">direct installation</h5>
+<h5 style="margin-top: -5px;">直接刷入即可食用</h5>
